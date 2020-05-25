@@ -1,5 +1,5 @@
 <html>
-<header>CBT Realms</header>
+<title>CBT Realms</title>
 <body>
 <embed src="CBTRealms.swf" width="800" height="600"> </embed>
 </body>
