@@ -1,0 +1,21 @@
+<html>
+  
+  <head>
+    <title>CBT Realms</title>
+  </head>
+  
+  <body style="background-color:black;">
+    <h1 style="text-align:center; background-color:red;">CBT Realms</h1>
+  </body>
+    
+  <center>
+    <object>
+      <embed src="https://rotmgatlas.github.io/Atlas.swf" 
+             width="800" 
+             height="600" 
+             pluginspace="http://www.macromedia.com/go/getflashplayer">
+      </embed>
+    </object>
+  </center>
+
+</html>
