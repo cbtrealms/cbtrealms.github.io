@@ -5,15 +5,15 @@
   <link rel="stylesheet" href="index.css">
   <center>
    <body>
-    <object>
     </body>
   </center>
    <div id='stars'></div>
     <div id='stars2'></div>
     <div id='stars3'></div>
+  <object>
   <embed src="https://cbtrealms.github.io/CBTRealms.swf" 
              width="800" 
              height="600" 
              pluginspace="http://www.macromedia.com/go/getflashplayer">
-    </object>
+  </object>
 </html>
