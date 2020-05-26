@@ -5,7 +5,7 @@
     <div id='stars'></div>
     <div id='stars2'></div>
     <div id='stars3'></div>
-    <h1 id="grad1">CBT Realms</h1>
+    <h1>CBT Realms</h1>
   </head>
   <link rel="stylesheet" href="index.css">
   <center>
