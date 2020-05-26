@@ -7,13 +7,14 @@
   </head>
   <link rel="stylesheet" href="index.css">
   <center>
-   <body> <h1">CBT Realms</h1>
-  </body>
+   <h1 style="background-color: black;">CBT Realms</h1>
+   <body>
     <object>
       <embed src="https://cbtrealms.github.io/CBTRealms.swf" 
              width="800" 
              height="600" 
              pluginspace="http://www.macromedia.com/go/getflashplayer">
     </object>
+    </body>
   </center>
 </html>
