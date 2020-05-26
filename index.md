@@ -10,13 +10,16 @@
   <center>
   <body>
     <object>
+      <div style="position:relative;">
+      <div style="position:absolute; top:0px; left:20px; z-index:1; padding:0px;">
       <embed src="https://cbtrealms.github.io/CBTRealms.swf" 
              width="800" 
              height="600" 
              pluginspace="http://www.macromedia.com/go/getflashplayer"
-             wmode="transparent"
              >
       </embed>
+      </div>
+      </div>
     </body>
   </center>
 </html>
