@@ -4,7 +4,6 @@
     <title>CBT Realms</title>
     <h1>CBT Realms</h1>
     <link href='https://fonts.googleapis.com/css?family=Aubrey' rel='stylesheet'>
-  </head>
   <link rel="stylesheet" href="index.css">
       <div class='ripple-background'>
       <div class='circle xxlarge shade1'></div>
@@ -27,4 +26,5 @@
       </div>
       </body>
   </center>
+</head>
 </html>
