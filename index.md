@@ -10,7 +10,7 @@
   <center>
   <body>
     <object>
-      <embed src="https://rotmgatlas.github.io/Atlas.swf" 
+      <embed src="https://cbtrealms.github.io/CBTRealms.swf" 
              width="800" 
              height="600" 
              pluginspace="http://www.macromedia.com/go/getflashplayer"
