@@ -3,6 +3,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CBT Realms</title>
     <h1>CBT Realms</h1>
+    <link href='https://fonts.googleapis.com/css?family=Aubrey' rel='stylesheet'>
+    <style>
+    body {
+      font-family: 'Aubrey';font-size: 22px;
+    }
+</style>
   </head>
   <link rel="stylesheet" href="index.css">
       <div class='ripple-background'>
