@@ -4,7 +4,7 @@
   </head>
   <link rel="stylesheet" href="index.css">
   <center>
-        <div id="grad1"><h1 style="text-align:center; background-color:grey;">CBT Realms</h1></div>
+        <h1 id="grad1">CBT Realms</h1>
   </body>
     <object>
       <embed src="https://cbtrealms.github.io/CBTRealms.swf" 
