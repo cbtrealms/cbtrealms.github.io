@@ -12,8 +12,9 @@
       <div class='circle mediun shade4'></div>
       <div class='circle small shade5'></div>
     </div>
-  <center>
+  </head>
   <body>
+    <center>
     <object>
       <div style="position:relative;">
       <div style="position:absolute; top:0px; left:20px; z-index:1; padding:0px;">
@@ -24,7 +25,6 @@
              >
       </div>
       </div>
+      </center>
       </body>
-  </center>
-</head>
 </html>
