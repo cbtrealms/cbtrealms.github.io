@@ -6,7 +6,7 @@
     <link href='https://fonts.googleapis.com/css?family=Aubrey' rel='stylesheet'>
     <style>
     body {
-      font-family: 'Aubrey';font-size: 22px;
+      font-family: 'Aubrey';
     }
 </style>
   </head>
@@ -30,6 +30,5 @@
              >
       </div>
       </div>
-    </body>
   </center>
 </html>
