@@ -2,9 +2,6 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CBT Realms</title>
-    <div id='stars'></div>
-    <div id='stars2'></div>
-    <div id='stars3'></div>
     <h1>CBT Realms</h1>
   </head>
   <link rel="stylesheet" href="index.css">
@@ -24,4 +21,7 @@
       </div>
     </body>
   </center>
+  <div id='stars'></div>
+  <div id='stars2'></div>
+  <div id='stars3'></div>
 </html>
