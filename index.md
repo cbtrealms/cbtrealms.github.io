@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="index.css">
   <center>
       <body style="background-color:black;">
-    <div id="grad1">CBT Realms
+    <div id="grad1"><h1 style="text-align:center; background-color:grey;"CBT Realms
     </div>
   </body>
     <object>
