@@ -22,7 +22,6 @@
              height="600" 
              pluginspace="http://www.macromedia.com/go/getflashplayer"
              >
-      </embed>
       </div>
       </div>
     </body>
