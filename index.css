@@ -8,6 +8,7 @@ h1 {
 }
 body{
   background: #580087;
+  font-family: Luminari, fantasy;
 }
 .circle{
   position: absolute;
