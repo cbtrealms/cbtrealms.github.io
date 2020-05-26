@@ -7,7 +7,6 @@
   </head>
   <link rel="stylesheet" href="index.css">
   <center>
-   <h1 style="background-color: black;">CBT Realms</h1>
    <body>
     <object>
       <embed src="https://cbtrealms.github.io/CBTRealms.swf" 
