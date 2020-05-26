@@ -4,11 +4,8 @@ h1 {
   -webkit-text-fill-color: transparent;
   font-size: 60px;
   line-height: 60px;
-  font-family: Luminari, fantasy;
 }
 body{
-  background: #580087;
-  font-family: Luminari, fantasy;
 }
 .circle{
   position: absolute;
