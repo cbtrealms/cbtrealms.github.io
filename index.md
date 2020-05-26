@@ -4,11 +4,6 @@
     <title>CBT Realms</title>
     <h1>CBT Realms</h1>
     <link href='https://fonts.googleapis.com/css?family=Aubrey' rel='stylesheet'>
-    <style>
-    body {
-      font-family: 'Aubrey';
-    }
-</style>
   </head>
   <link rel="stylesheet" href="index.css">
       <div class='ripple-background'>
