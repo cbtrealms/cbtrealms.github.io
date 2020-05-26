@@ -1,7 +1,5 @@
-html {
-  height: 100%;
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  overflow: hidden;
+body {
+  background:none transparent;
 }
 #grad1 {
     background: red;
@@ -12,6 +10,11 @@ html {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 20vw;
+}
+html {
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
 }
 #stars {
   width: 1px;
