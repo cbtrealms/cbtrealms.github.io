@@ -4,6 +4,12 @@
     <title>CBT Realms</title>
     <h1>CBT Realms</h1>
   </head>
+  <link href='https://fonts.googleapis.com/css?family=Alegreya SC' rel='stylesheet'>
+  <style>
+  body {
+    font-family: 'Alegreya SC';font-size: 22px;
+  }
+  </style>
   <link rel="stylesheet" href="index.css">
       <div class='ripple-background'>
       <div class='circle xxlarge shade1'></div>
