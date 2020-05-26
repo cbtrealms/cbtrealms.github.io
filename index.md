@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
     <title>CBT Realms</title>
     <h1>CBT Realms</h1>
       <div class='ripple-background'>
