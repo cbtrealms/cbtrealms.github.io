@@ -3,12 +3,11 @@
     <title>CBT Realms</title>
   </head>
   <link rel="stylesheet" href="index.css">
+  <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/TweenLite.min.js"></script>
+  <https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/EasePack.min.js"></script>
+  <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/demo.js"></script>
   <center>
    <body>
-     <div class="container demo">
-         <canvas id="demo-canvas"></canvas>
-         <h1 class="main-title"><span class="thin">Explore</span> Space</h1>
-      </div>
         <h1 style="background-color: black;">CBT Realms</h1>
   </body>
     <object>
