@@ -7,7 +7,7 @@
   <link href='https://fonts.googleapis.com/css?family=Alegreya SC' rel='stylesheet'>
   <style>
   body {
-    font-family: 'Alegreya SC';font-size: 22px;
+    font-family: 'Alegreya SC';
   }
   </style>
   <link rel="stylesheet" href="index.css">
