@@ -1,11 +1,4 @@
 @import compass
-h1 {
-  background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 120px;
-  line-height: 0px;
-}
 // n is number of stars required
 @function multiple-box-shadow ($n) 
   $value: '#{random(2000)}px #{random(2000)}px #FFF'
@@ -97,4 +90,10 @@ $shadows-big:    multiple-box-shadow(100)
     transform: translateY(0px)
   to		
     transform: translateY(-2000px)
-    
+h1 {
+  background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 120px;
+  line-height: 0px;
+}
