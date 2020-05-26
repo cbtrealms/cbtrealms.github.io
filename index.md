@@ -4,6 +4,7 @@
   </head>
   <link rel="stylesheet" href="index.css">
   <center>
+   <body>
         <h1 id="grad1">CBT Realms</h1>
   </body>
     <object>
