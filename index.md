@@ -2,9 +2,9 @@
   <head>
     <title>CBT Realms</title>
   </head>
-<div id='stars'></div>
-<div id='stars2'></div>
-<div id='stars3'></div>
+  <div id='stars'></div>
+  <div id='stars2'></div>
+  <div id='stars3'></div>
   <link rel="stylesheet" href="index.css">
   <center>
    <body>
