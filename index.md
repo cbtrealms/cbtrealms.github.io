@@ -5,6 +5,10 @@
   <link rel="stylesheet" href="index.css">
   <center>
    <body>
+     <div class="container demo">
+         <canvas id="demo-canvas"></canvas>
+         <h1 class="main-title"><span class="thin">Explore</span> Space</h1>
+      </div>
         <h1 style="background-color: black;">CBT Realms</h1>
   </body>
     <object>
