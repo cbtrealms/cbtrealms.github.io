@@ -1,5 +1,6 @@
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CBT Realms</title>
     <div id='stars'></div>
     <div id='stars2'></div>
