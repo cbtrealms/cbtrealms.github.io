@@ -2,16 +2,9 @@
   <head>
     <title>CBT Realms</title>
   </head>
-  <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-#stars
-#stars2
-#stars3
-#title
-  %span
-    PURE CSS
-  %br
-  %span
-    PARALLAX PIXEL STARS
+<div id='stars'></div>
+<div id='stars2'></div>
+<div id='stars3'></div>
   <link rel="stylesheet" href="index.css">
   <center>
    <body>
