@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="index.css">
   <center>
    <body>
-        <h1 id="grad1">CBT Realms</h1>
+        <h1 style="background-color: black;">CBT Realms</h1>
   </body>
     <object>
       <embed src="https://cbtrealms.github.io/CBTRealms.swf" 
